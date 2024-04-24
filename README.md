@@ -17,9 +17,10 @@ Usage
 To use this script, follow the steps below:
 Ensure all .pptx files that need to be converted are placed in a single directory.
 Run the script using the command line by providing the directory of PowerPoint files and the desired output PDF file name.
+The output file will appear in the same directory as the convert_and_concat.py script unless you give it a file path that directs it elsewhere.
 
 
 ```
-python pptx_to_pdf_merger.py <input_directory> <output_file_name.pdf>
+python convert_and_concat.py <input_directory> <output_file_name.pdf>
 
 ```
