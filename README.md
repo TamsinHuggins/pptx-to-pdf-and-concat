@@ -4,7 +4,7 @@ Useful for consolidating multiple presentations into one PDF document for distru
 
 ## Requirements
 - os - for navigating file directories
-- pptxtopdf - For converting PowerPoint files to PDF (ensure you have this installed or replace it with your preferred library)
+- pptxtopdf - For converting PowerPoint files to PDF 
 - pypdf - For merging PDF files
 
 To install requirements:
