@@ -4,7 +4,7 @@ from pypdf import PdfMerger
 import os
 
 def main(input_dir, name_of_output_pdf):
-        """
+    """
     Function that converts all pptx files in the specified input directory to pdf format, 
     merges them into a single pdf file, and saves the merged pdf file with the specified output name.
 
@@ -20,8 +20,6 @@ def main(input_dir, name_of_output_pdf):
     Example usage:
     main('my_input_dir', 'my_output.pdf')
     """
-
-
     all_pdf_dir = "all_pdfs_nufix8Ybsgw"
     
     # if name_of_output_pdf does not end with .pdf, append it

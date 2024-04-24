@@ -1,0 +1,3 @@
+os
+pptxtopdf==0.0.2
+pypdf==4.2.0
