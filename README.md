@@ -3,9 +3,9 @@ Allows you to convert all PowerPoint (.pptx) files in a specified directory to P
 Useful for consolidating multiple presentations into one PDF document for distrubution,
 
 ## Requirements
-argparse - For parsing command line options
-pptxtopdf - For converting PowerPoint files to PDF (ensure you have this installed or replace it with your preferred library)
-pypdf - For merging PDF files
+- os - for navigating file directories
+- pptxtopdf - For converting PowerPoint files to PDF (ensure you have this installed or replace it with your preferred library)
+- pypdf - For merging PDF files
 
 To install requirements:
 
